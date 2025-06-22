@@ -1,6 +1,6 @@
 {
     "name": "ai-code-explainer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight wrapper to explain code snippets in plain English using OpenAI API",
     "main": "index.js",
     "type": "module",
