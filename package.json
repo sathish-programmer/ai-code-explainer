@@ -1,0 +1,24 @@
+{
+    "name": "ai-code-explainer",
+    "version": "1.0.0",
+    "description": "A lightweight wrapper to explain code snippets in plain English using OpenAI API",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [
+        "ai",
+        "code",
+        "explainer",
+        "openai",
+        "code-explanation",
+        "developer-tools"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.5.0",
+        "openai": "^4.10.0"
+    }
+}
